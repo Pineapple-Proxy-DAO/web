@@ -20,7 +20,7 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 
 [Nymchuck Norris - NYM mixnode operator (plain code setup)](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Nymchuck%20Norris%20-%20NYM%20mixnode%20operator%20(plain%20code%208a1eed02ef1942e881ae78dc3ae7713d.md)
 
-[Nymj**ackie Chan** - NYM mixnode ubuntu server setup](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Nymjackie%20Chan%20-%20NYM%20mixnode%20ubuntu%20server%20setup%20903d42371d00423f8ff1855e7d8a8588.md)
+[Nymjackie Chan - NYM mixnode ubuntu server setup](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Nymjackie%20Chan%20-%20NYM%20mixnode%20ubuntu%20server%20setup%20903d42371d00423f8ff1855e7d8a8588.md)
 
 [Build your own hardware  (draft) ](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Build%20your%20own%20hardware%20(draft)%2094506d531611467abc9c492b4ed303ee.md)
 
@@ -28,7 +28,7 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 
 ## 🍍Blog articles & essays
 
-[Dignity on the internet as a global citizen](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Dignity%20on%20the%20internet%20as%20a%20global%20citizen%20b53b115619c74960963f9275a2e54416.md)
+[Dignity on the internet as a global citizen](docs/dignity-on-the-internet-as-a-global-citizen.md)
 
 [Our favourite things about Nym’s tokenomics (draft)](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Our%20favourite%20things%20about%20Nym%E2%80%99s%20tokenomics%20(draft%20c5b0e91f081241eda4b1ce38195beaa3.md)
 
@@ -70,7 +70,7 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 
 [🔎💯Nym githbub repo](https://github.com/nymtech/nym/tree/nym-connect-v1.1.2)
 
-☑️ [NYM **Mixnet** Explorer](https://explorer.nymtech.net)  (OG explorer of the mixnet)
+☑️ [NYM Mixnet Explorer](https://explorer.nymtech.net)  (OG explorer of the mixnet)
 
 🕉️[Mixnet explorer](https://mixnet.explorers.guru) by [Nodes Guru](https://nodes.guru)   - ⚠️ Keep in mind the view this explorer has two sides- one for the mixnet and one for the NYX blockchain ⚠️
 
@@ -95,8 +95,8 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 ## 🍍Mixnode ❤️‍🔥
 
 [NoTrustVerify](https://nym.notrustverify.ch) - Professional Infrastructure🇨🇭 | Fair Fees | Nym Contributor | [https://t.me/notrustverify](https://t.me/notrustverify)
-◼️[NTV1 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
-◾[NTV2 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
+* [NTV1 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
+* [NTV2 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
 
 [Amphibios 9🍍🇬🇪- th](https://mixnet.explorers.guru/mixnode/RYDYNZNwZfeZs87TLhn4dWAK9xax3eLdMJ1fzJnqFvU)is mixnode was launched in Georgia - one of the world's most cryptocurrency-friendly countries!
 

@@ -30,7 +30,7 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 
 [Dignity on the internet as a global citizen](docs/dignity-on-the-internet-as-a-global-citizen.md)
 
-[Our favourite things about Nym’s tokenomics draft]docs/our-favourite-things-about-Nym-tokenomics.md)
+[Our favourite things about Nym’s tokenomics draft](docs/our-favourite-things-about-Nym-tokenomics.md)
 
 [What happens at the gates, stays at the gates ](docs/what-happens-at-the-gates-stays-at-the-gates.md)
 

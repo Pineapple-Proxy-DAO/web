@@ -26,7 +26,7 @@ The Nym client on a user’s device encodes data into Sphinx packets, these are 
 
 Your very own private delivery person! 
 
-![](Web3privacy_landscape_now.png)
+![](what-happens-at-the-gates-stays-at-the-gates/73ew7b.jpg)
 
 **What else can gateways do?**
 

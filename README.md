@@ -6,6 +6,9 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 
 **🗺️Menu for today**
 
+* TOC
+{:toc}
+
 ---
 
 ## 🥐**How-to guides**

@@ -8,14 +8,13 @@ Remember — privacy isn’t easy, we live in a very connected, networked world 
 
 Ready to get started? Let’s go:
 
-<aside>
-<img src="https://www.notion.so/icons/token_gray.svg" alt="https://www.notion.so/icons/token_gray.svg" width="40px" /> **Level 1: Get NYM tokens into your own wallet** (<5 mins)
+<img src="https://www.notion.so/icons/token_gray.svg" alt="https://www.notion.so/icons/token_gray.svg" width="40px" /> *Level 1: Get NYM tokens into your own wallet* (<5 mins)
 
-We used Kraken since it’s currently the only centralised exchange (CEX) which integrates directly with NymChain. You can purchase native NYM tokens straight away, instead of the alternative (bridging your NYM tokens through Gravity). In a matter of minutes you’ll be ready with tokens to delegate and bond**.**
+We used Kraken since it’s currently the only centralised exchange (CEX) which integrates directly with NymChain. You can purchase native NYM tokens straight away, instead of the alternative (bridging your NYM tokens through Gravity). In a matter of minutes you’ll be ready with tokens to delegate and bond
 
 1) Register or login to your account on [Kraken](https://www.kraken.com)
 
-2) Trade or buy NYM using the currency of your choice. For crypto look for *******Deposit******* under the *Funding* tab, and if you want to use fiat look for the big ***Buy*** button.
+2) Trade or buy NYM using the currency of your choice. For crypto look for Deposit under the *Funding* tab, and if you want to use fiat look for the big Buy button.
 
 3) Calculate how much you’ll need: it’s 100 NYM to bond your own mixnode, about 1-2 NYM to transfer/transact from exchanges and other Nymchain transactions. We recommend at least a minimum amount of 103 NYM.
 
@@ -25,6 +24,4 @@ We used Kraken since it’s currently the only centralised exchange (CEX) which 
 
 6) Either delegate your tokens to existing mixnodes (browse the list and find one you like here: [https://explorer.nymtech.net/network-components/mixnodes/](https://explorer.nymtech.net/network-components/mixnodes/)) or go hard and get ready to bond them to your own mixnode. In this case follow the next guide!
 
-</aside>
-
-**Congratulations, you’re a lvl.1 TINYMJA** 🤩
+*Congratulations, you’re a lvl.1 TINYMJA* 🤩

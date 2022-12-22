@@ -8,9 +8,14 @@ Remember — privacy isn’t easy, we live in a very connected, networked world 
 
 Ready to get started? Let’s go:
 
+Here's some options:
+
+* Bity without KYC and native tokens, explained [here](https://medium.com/notrustverify/buy-nym-without-kyc-with-nym-wallet-1-1-2-ca741a0a7232)
+* Kraken with native tokens, explained below
+
 <img src="https://www.notion.so/icons/token_gray.svg" alt="https://www.notion.so/icons/token_gray.svg" width="40px" /> *Level 1: Get NYM tokens into your own wallet* (<5 mins)
 
-We used Kraken since it’s currently the only centralised exchange (CEX) which integrates directly with NymChain. You can purchase native NYM tokens straight away, instead of the alternative (bridging your NYM tokens through Gravity). In a matter of minutes you’ll be ready with tokens to delegate and bond
+Kraken can be used, it integrates directly with NymChain. You can purchase native NYM tokens straight away, instead of the alternative (bridging your NYM tokens through Gravity). In a matter of minutes you’ll be ready with tokens to delegate and bond
 
 1) Register or login to your account on [Kraken](https://www.kraken.com)
 

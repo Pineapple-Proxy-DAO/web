@@ -10,19 +10,19 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing 
 
 ## ü•ê**How-to guides**
 
-[Minymja - NYM token holder](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Minymja%20-%20NYM%20token%20holder%204ad2202a8e504c3dbee6a0a30bd33213.md)
+[Minymja - NYM token holder](docs/minymja-NYM-token-holder.md)
 
-[DEX pools and token bridging from ETH to NYM chain - using the cosmos gravity bridge](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/DEX%20pools%20and%20token%20bridging%20from%20ETH%20to%20NYM%20chain%206e8b815074954b7ea22ba15f594483d2.md)
+[DEX pools and token bridging from ETH to NYM chain - using the cosmos gravity bridge](docs/DEX-pools-and-token-bridging-from-ETH-to-NYM-chain.md)
 
-[Tinymja - NYM ecosystem supporter](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Tinymja%20-%20NYM%20ecosystem%20supporter%20ecb1b2cd6489493a8149cc035ea8f4db.md)
+[Tinymja - NYM ecosystem supporter](docs/tinymja-NYM-ecosystem-supportermd)
 
-[Virtual Private Server setup VPS -draft](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Virtual%20Private%20Server%20setup%20VPS%20-draft%20b77442ecc0334c3c894dcbf29ac4d698.md)
+[Virtual Private Server setup VPS - draft](docs/virtual-private-server-setup.md)
 
-[Nymchuck Norris - NYM mixnode operator plain code setup]()
+[Nymchuck Norris - NYM mixnode operator plain code setup](docs/nymchuck-Norris-NYM-mixnode-operator.md)
 
-[Nymjackie Chan - NYM mixnode ubuntu server setup](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Nymjackie%20Chan%20-%20NYM%20mixnode%20ubuntu%20server%20setup%20903d42371d00423f8ff1855e7d8a8588.md)
+[Nymjackie Chan - NYM mixnode ubuntu server setup](docs/)
 
-[Build your own hardware  draft](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Build%20your%20own%20hardware%20(draft)%2094506d531611467abc9c492b4ed303ee.md)
+[Build your own hardware  draft](docs/build-your-own-hardware.md)
 
 ---
 
@@ -30,9 +30,9 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing 
 
 [Dignity on the internet as a global citizen](docs/dignity-on-the-internet-as-a-global-citizen.md)
 
-[Our favourite things about Nym‚Äôs tokenomics draft](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Our%20favourite%20things%20about%20Nym%E2%80%99s%20tokenomics%20draft%20c5b0e91f081241eda4b1ce38195beaa3.md)
+[Our favourite things about Nym‚Äôs tokenomics draft]docs/our-favourite-things-about-Nym-tokenomics.md)
 
-[What happens at the gates, stays at the gates ](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/What%20happens%20at%20the%20gates,%20stays%20at%20the%20gates%2059bdcc6ecd8d453e82af66f468adb81a.md)
+[What happens at the gates, stays at the gates ](docs/what-happens-at-the-gates-stays-at-the-gates.md)
 
 ---
 
@@ -112,7 +112,7 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing 
 
 - **üó∫Ô∏èprivacy tech landscape to browse**
     
-    ![Web3privacy landscape now.png](The%20way%20of%20the%20NYMJA%20%F0%9F%A5%B7%F0%9F%8F%BC%208e4b19ff876a43b9bb197b22a2a5320b/Web3privacy_landscape_now.png)
+ ![Web3privacy landscape now.png](docs/Web3privacy_landscape_now.png)
     
 
 ---

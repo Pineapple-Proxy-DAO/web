@@ -20,7 +20,7 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing ð
 
 [Nymchuck Norris - NYM mixnode operator plain code setup](docs/nymchuck-Norris-NYM-mixnode-operator.md)
 
-[Nymjackie Chan - NYM mixnode ubuntu server setup](docs/)
+[Nymjackie Chan - NYM mixnode ubuntu server setup](docs/nymjackie-Chan-NYM-mixnode-ubuntu-server-setup.md)
 
 [Build your own hardware  draft](docs/build-your-own-hardware.md)
 

@@ -1,6 +1,6 @@
 # Nymjackie Chan - NYM mixnode ubuntu server setup
 
-[RU](Nymjackie%20Chan%20-%20NYM%20mixnode%20ubuntu%20server%20setup%20903d42371d00423f8ff1855e7d8a8588/Nymjackie%20Chan%20-%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BC%D0%B8%D0%BA%D1%81%D0%BD%D0%BE%D0%B4%D1%8B%20NYM%20%D0%BD%D0%B0%20ubuntu%20%20fa37ce50e4c34b5aabf31de18f25f6e2.md)
+[RU](nymjackie-Chan-NYM-mixnode-ubuntu-server-setup/ru-nymjackie-Chan-NYM-ubuntu-.md)
 
 ### Check IPv6 address is available
 
@@ -129,11 +129,11 @@ Recommended way to bond is via desktop wallet. Open the wallet and press the Bon
 
 Step 1. Fill all the needed information using bonding.txt in the previous step
 
-![Screenshot from 2022-12-18 15-59-02.png](Nymjackie%20Chan%20-%20NYM%20mixnode%20ubuntu%20server%20setup%20903d42371d00423f8ff1855e7d8a8588/Screenshot_from_2022-12-18_15-59-02.png)
+![Screenshot from 2022-12-18 15-59-02.png](nymjackie-Chan-NYM-mixnode-ubuntu-server-setup/Screenshot_from_2022-12-18_15-59-02.png)
 
 Step 2. Set the ‘Amount’ to bond starting from the 100 NYM and a ‘Profit margin’ (usually 1-10%).
 
-![Screenshot from 2022-12-18 16-09-38.png](Nymjackie%20Chan%20-%20NYM%20mixnode%20ubuntu%20server%20setup%20903d42371d00423f8ff1855e7d8a8588/Screenshot_from_2022-12-18_16-09-38.png)
+![Screenshot from 2022-12-18 16-09-38.png](nymjackie-Chan-NYM-mixnode-ubuntu-server-setup/Screenshot_from_2022-12-18_16-09-38.png)
 
 ### Run mixnode as a service
 

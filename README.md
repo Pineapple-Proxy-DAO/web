@@ -27,6 +27,8 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing ğ
 
 [Build your own hardware  draft](docs/build-your-own-hardware.md)
 
+How to update the github repo - guide
+
 ---
 
 ## ğŸBlog articles & essays

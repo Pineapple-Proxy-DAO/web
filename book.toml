@@ -1,0 +1,14 @@
+[book]
+authors = ["pineapple"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The way of the NYMJA"
+description="Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing 👀"
+
+[output.html]
+git-repository-url = "https://github.com/Pineapple-Proxy-DAO/web"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/Pineapple-Proxy-DAO/web/edit/main/{path}"
+default-theme = "light"
+preferred-dark-theme = "navy"

@@ -1,0 +1,17 @@
+# Virtual Private Server setup (VPS -draft)
+
+1) What is a VPS and why do you need one?
+
+2) How to set one up?
+
+Let us know if you would want to write this piece.
+
+So, what is a VPS and why do you need one?
+
+Well, a VPS(Virtual Private Server) is a virtual server/computer that comes from a physical server/computer that you can access from your own computer, it’s a virtual machine that you use from a host that is running a hypervisor on top of their OS. Imagine a huge warehouse filled with servers, like google or amazon, and all of these servers’ resources can be used by yourself from your own home without needing physical access to them. There are some key things you need to know that separate a VPS from other forms of cloud computing though:
+
+A VPS is like renting resources from a server or computer based on your own needs. They can easily be upgraded and customized if your needs change with a simple click from your control panel. VPS comes with root access control, server applications, and you can even decide which OS you want it to use. Your VPS could be a part of 1 server’s resources, and it could be part of several servers’ resources, however, with a VPS you pay for a guaranteed part of these servers’ resources and despite technically sharing with others you are getting the full amount of resources you have paid for! This is what separates a VPS from shared hosting where everyone is sharing parts of a servers’ resources and your ”share” of those resources can be affected by the needs of everyone you’re sharing with. Dedicated hosting is another form of cloud computing that is similar to a VPS but an option that gives you even more control and even lets you choose the hardware and server software, so you could say that a VPS is somewhere in the middle of these other two options. Virtual private servers is a more affordable option to dedicated hosting while giving you a lot of the same advantages and is also a more convenient option to shared hosting since you are guaranteed the resources that you pay for and have more control. Since you’re not using your own hardware or IP most of the hosting providers also offer some more safety for the less tech-savvy people or the ones who want to spend less time on monitoring and securing their own hardware. It’s also a good option because of how easy it is to upgrade :)
+
+Setting up a VPS is quite simple: you simply sign up to a VPS hosting provider, you choose the resources that you need(vCPU, vRam, Bandwidth, and storage) you then get some application options like OS type, Firewalls, different software. It can all be configured and upgraded should your needs change so don’t worry about not getting enough(it can be better to choose a cheaper option from the start and then upgrade as you go). Bandwidth is probably the most important part to start with and you also want to ensure that you get both ipv4 and a PUBLIC ipv6 address(these are the ones you will use for your mixnode when you set it up). Different hosts have different options but for ease of use, you will also want to get the option with a control panel so that you can configure and monitor your VPS.
+
+(For the group: Different providers have different control panels, and configuring with different OS’ can be a bit different, should we choose one host and one OS to give an example?)

@@ -1,5 +1,7 @@
 # Undystopian Alexandria
 
+![](./resources/header-undystopian-Alexandria.jpg)
+
 Welcome to the open library of Undystopian Alexandria, make yourself comfortable here.
 
 As passionate cypherpunks and zesty fruits living in this current, historic age -- we felt compelled to start creating a library of future commons. We believe that through books full of stories and ideas, we can amplify the potential of our shared dreams about a future, where privacy is a fundamental human right. Shared words and vocabulary are the brick and mortar for projects that we might build together.

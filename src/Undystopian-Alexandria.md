@@ -10,7 +10,7 @@ At this point in time, knowledge is scattered and everybody is naturally interes
 
 The collection is modest and we've just taken the first couple of small steps, but we hope you feel inspired to add to this collection too. For the time being we're focusing on cypherpunk and other related topics, which enable social and political change through privacy-enhancing technologies.
 
-For any proposition of new books or broken links, use this [form](https://cryptpad.fr/form/#/3/form/view/66a00145baff6622fc6b5b0e627a9d99)
+For any proposition of new books or broken links, use this [form](https://cryptpad.fr/form/#/2/form/view/TCwEUtM8xnoQMpY-nVlwJahJxIPwfbmWCLgat3jcFQI/embed/)
 
 
 | **Year** | **Author**                                                              | **Title of the Book**                                                                                                      | **Anon download link for the book**                                                                                             |

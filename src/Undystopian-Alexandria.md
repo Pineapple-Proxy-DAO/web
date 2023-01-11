@@ -12,6 +12,7 @@ The collection is modest and we've just taken the first couple of small steps, b
 
 For any proposition of new books or broken links, use this [form](https://cryptpad.fr/form/#/2/form/view/TCwEUtM8xnoQMpY-nVlwJahJxIPwfbmWCLgat3jcFQI/embed/)
 
+The library is accessible from pastenym too: [https://pastenym.ch/#/KWilxE2j&key=ee89509f7c688b0b4aa7fda521d84439](https://pastenym.ch/#/KWilxE2j&key=ee89509f7c688b0b4aa7fda521d84439)
 
 | **Year** | **Author**                                                              | **Title of the Book**                                                                                                      | **Anon download link for the book**                                                                                             |
 |----------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|

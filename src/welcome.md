@@ -2,6 +2,8 @@
 
 Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing 👀 
 
+[Tor version](http://weuz7bfcmmsz6bjhlp36fulmmtjmww4uag4jfaigb6hthxqzrqqdatqd.onion)
+
 ---
 
 ## 🛡️**Official NYM links & documents**

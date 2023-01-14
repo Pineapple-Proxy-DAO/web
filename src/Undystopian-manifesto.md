@@ -34,3 +34,7 @@
 ## Guerilla Open Access Manifesto
 
 * [EN - Read it](https://pastenym.ch/#/bafkreidt7fh64vlnuwblfk6q2wczbfxotkllhon2qogkkgmlligeptk6xu&key=e09a8024cd2d8dbc6bfac426aea7fca6)
+
+## The #FreeAI Manifesto
+
+* [EN - Read it](https://pastenym.ch/#/bafkreiavrrgefut3zrckjgc4hzrv3v2fi67rdqmacwv5pay7rwntxdbyni&key=929f4e268d75a71b649ce248331dfd45)

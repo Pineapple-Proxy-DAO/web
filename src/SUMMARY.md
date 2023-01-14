@@ -2,7 +2,7 @@
 
 - [Welcome](welcome.md)
 - [📚Undystopian Alexandria](Undystopian-Alexandria.md)
-- [📜Undystopian Manifesto](Undystopian-manifesto.md)
+- [📜Undystopian Manifestos](Undystopian-manifesto.md)
 - [🥐How-to guides](how-to-guides.md)
     - [Minymja - NYM token holder](how-to-guides/minymja-NYM-token-holder.md)
     - [DEX Pools and Token Bridging from ETH to NYM Chain](how-to-guides/DEX-pools-and-token-bridging-from-ETH-to-NYM-chain.md)

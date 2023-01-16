@@ -83,5 +83,5 @@ Date: 2022
 
 We, the people, must create new worlds to live a free life.
   
-* [EN - Read it](https://pastenym.ch/#/bafkreianiw46rnitpv54uj46rt4s3kjvti5vyemvv6g2ph63vognoaxe6i&key=e6e7cc8684d56c5ae0706e94139748eb)
+* [EN - Read it]([https://pastenym.ch/#/bafkreianiw46rnitpv54uj46rt4s3kjvti5vyemvv6g2ph63vognoaxe6i&key=e6e7cc8684d56c5ae0706e94139748eb](https://pastenym.ch/#/))
   

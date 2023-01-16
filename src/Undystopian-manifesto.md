@@ -64,3 +64,17 @@ Date: 2018
 > https://github.com/freeai-manifesto/manifesto
 
 * [EN - Read it](https://pastenym.ch/#/bafkreiajpkthtx2ptxllsnmvn2g2klloshdr4p47kptcu3pwwbalhg4a5a&key=f8e24f5a6b08b2121341b4574449920c)
+  
+  
+## Darkfi manifesto
+Date: 2021
+  
+* [EN - Read it](https://pastenym.ch/#/bafkreihopynlgrzffopglem7pyg377aklcymyrqpsi7lkp67dw6zpq4bam&key=a9b70bfc1f5866c6dde72f0bd39c6a98)  
+
+  
+## LunarDAO manifesto
+  
+Date: 2022
+  
+* [EN - Read it](https://pastenym.ch/#/bafkreianiw46rnitpv54uj46rt4s3kjvti5vyemvv6g2ph63vognoaxe6i&key=e6e7cc8684d56c5ae0706e94139748eb)
+  

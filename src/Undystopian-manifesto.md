@@ -76,5 +76,12 @@ Date: 2021
   
 Date: 2022
   
+ > Privacy is for the people, to prevent the agents of power from intruding in the innermost parts of our existence. Transparency must apply to those in power, to lay open their machinations and hold them accountable. This includes any government, supranational entity, corporations and conglomerates. Crypto-advocates are being denounced as criminal and terrorist, co-opted, marginalized and violently crushed. The existing establishment only maintains and intensifies our enslavement.
+>
+> Ley
+
+
+We, the people, must create new worlds to live a free life.
+  
 * [EN - Read it](https://pastenym.ch/#/bafkreianiw46rnitpv54uj46rt4s3kjvti5vyemvv6g2ph63vognoaxe6i&key=e6e7cc8684d56c5ae0706e94139748eb)
   

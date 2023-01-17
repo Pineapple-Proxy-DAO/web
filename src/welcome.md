@@ -62,7 +62,7 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 
 ---
 
-## 🍍Mixnode ❤️ 🔥
+## 🍍Mixnodes ❤️ 🔥
 
 * [NoTrustVerify](https://nym.notrustverify.ch) - Professional Infrastructure🇨🇭 | Fair Fees | Nym Contributor | [https://t.me/notrustverify](https://t.me/notrustverify)
     * [NTV1 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)

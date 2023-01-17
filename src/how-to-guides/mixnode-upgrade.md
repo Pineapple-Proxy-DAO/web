@@ -19,7 +19,8 @@ https://github.com/nymtech/nym/releases
   - `sudo service nym-mixnode stop`
 4. Download and replace the existing binaries with the newest ones using `wget`command
   - Make sure you've got the correct link with the correct version number (see link [nym/releases on Github](https://github.com/nymtech/nym/releases))
-  - `sudo wget -N https://github.com/nymtech/nym/releases/download/nym-binaries-v1.1.6/nym-mixnode`
+  - Replace <latest-version> by the lastest available version
+  - `sudo wget -N https://github.com/nymtech/nym/releases/download/nym-binaries-v<latest-version>/nym-mixnode`
   - using `wget`command will fetch the binaries and replace the existing components, `-N` option will force the overwrite
 5. *(Optional)* Run `init` command to update the configuration files
   - the `init` command will **NOT** overwrite your keys

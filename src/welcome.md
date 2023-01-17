@@ -70,6 +70,9 @@ Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing �
 
 * [Amphibios 9🍍🇬🇪- th](https://mixnet.explorers.guru/mixnode/RYDYNZNwZfeZs87TLhn4dWAK9xax3eLdMJ1fzJnqFvU)is mixnode was launched in Georgia - one of the world's most cryptocurrency-friendly countries!
 
+* [MyNixNode.](https://mynixnode.com) - Privacy is not negotiable | 🇨🇭 | Nym community
+    * [MyNixNode node - NYM Mixnet Explorer](https://mixnet.explorers.guru/mixnode/7w5dJR14ZqfBnnqVyyPY3XPwfpVZrFvLkXYHNHR7GXDg)
+
 ---
 
 ## 🕵🏼 ㊙️Privacy repos & further links

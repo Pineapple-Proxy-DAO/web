@@ -18,9 +18,7 @@ https://github.com/nymtech/nym/releases
 3. Stop the running "nym-mixnode" process
   - `sudo service nym-mixnode stop`
 4. Download and replace the existing binaries with the newest ones using `wget`command
-  - Make sure you've got the correct link with the correct version number (see link [nym/releases on Github](https://github.com/nymtech/nym/releases))
-  - Replace <latest-version> by the lastest available version
-  - `sudo wget -N https://github.com/nymtech/nym/releases/download/nym-binaries-v<latest-version>/nym-mixnode`
+  - `wget -N https://github.com/nymtech/nym/releases/download/$( curl 'https://api.github.com/repos/nymtech/nym/releases' &> /dev/null | sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode`
   - using `wget`command will fetch the binaries and replace the existing components, `-N` option will force the overwrite
 5. *(Optional)* Run `init` command to update the configuration files
   - the `init` command will **NOT** overwrite your keys
@@ -41,5 +39,5 @@ Then it will stop the "nym-mixnode "process, replace the binaries with the new o
 The fact that the `wget` download happens before stopping the "nym-mixnode" process will make the process more efficient.
 
 ```
-wget https://github.com/nymtech/nym/releases/download/nym-binaries-v1.1.6/nym-mixnode -O nym-mixnode.new && sudo chmod u+x nym-mixnode.new && sudo service nym-mixnode stop && mv nym-mixnode.new nym-mixnode && sudo ./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address> && sudo service nym-mixnode start
+wget -N https://github.com/nymtech/nym/releases/download/$( curl 'https://api.github.com/repos/nymtech/nym/releases' &> /dev/null | sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode -O nym-mixnode.new && sudo chmod u+x nym-mixnode.new && sudo service nym-mixnode stop && mv nym-mixnode.new nym-mixnode && sudo ./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address> && sudo service nym-mixnode start
 ```

@@ -7,8 +7,8 @@
 ## Introduction
 
 Currently Nym team releases the upgrades on a weekly basis on Tuesdays.
-The latest releases can be found on their Github:
-https://github.com/nymtech/nym/releases
+
+The latest releases can be found on their [Github](https://github.com/nymtech/nym/releases)
 
 
 ## Step-by-step upgrade process
@@ -22,12 +22,12 @@ https://github.com/nymtech/nym/releases
   - using `wget`command will fetch the binaries and replace the existing components, `-N` option will force the overwrite
 5. *(Optional)* Run `init` command to update the configuration files
   - the `init` command will **NOT** overwrite your keys
-  - `sudo ./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address>`
+  - `./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address>`
 6. Restart your "nym-mixnode" process
   - `sudo service nym-mixnode start`
 7. Check that your nym-mixnode process is running as intended
-  - `sudo systemctl status nym-mixnode.service`
-  - journalctl -u nym-mixnode -f
+  - `systemctl status nym-mixnode.service`
+  - `journalctl -u nym-mixnode -f`
 8. Update the version of your binaries also in your configuration file and on the blockchain via the NYM-wallet
 
 
@@ -38,6 +38,23 @@ Then it will stop the "nym-mixnode "process, replace the binaries with the new o
 
 The fact that the `wget` download happens before stopping the "nym-mixnode" process will make the process more efficient.
 
+### With init
 ```
-wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode -O nym-mixnode.new && sudo chmod u+x nym-mixnode.new && sudo service nym-mixnode stop && mv nym-mixnode.new nym-mixnode && sudo ./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address> && sudo service nym-mixnode start
+wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' \
+| sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode -O nym-mixnode.new \ && 
+chmod u+x nym-mixnode.new \ && 
+service nym-mixnode stop \ && 
+mv nym-mixnode.new nym-mixnode \ && 
+./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address> \ && 
+service nym-mixnode start
+```
+
+### Without init
+```
+wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' \
+| sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode -O nym-mixnode.new \ && 
+chmod u+x nym-mixnode.new \ && 
+service nym-mixnode stop \ && 
+mv nym-mixnode.new nym-mixnode \ &&
+service nym-mixnode start
 ```

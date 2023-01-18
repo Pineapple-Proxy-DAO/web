@@ -18,7 +18,7 @@ The latest releases can be found on their [Github](https://github.com/nymtech/ny
 3. Stop the running "nym-mixnode" process
   - `service nym-mixnode stop`
 4. Download and replace the existing binaries with the newest ones using `wget`command
-  - `wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode`
+  - `wget -N https://github.com/nymtech/nym/releases/download/$(curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n '0,/.*"tag_name": "\(nym-binaries.*\)",/s//\1/p' )/nym-mixnode`
   - using `wget`command will fetch the binaries and replace the existing components, `-N` option will force the overwrite
 5. *(Optional)* Run `init` command to update the configuration files
   - the `init` command will **NOT** overwrite your keys
@@ -40,8 +40,7 @@ The fact that the `wget` download happens before stopping the "nym-mixnode" proc
 
 ### With init
 ```
-wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' \
-| sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode -O nym-mixnode.new \ && 
+wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n '0,/.*"tag_name": "\(nym-binaries.*\)",/s//\1/p' )/nym-mixnode -O nym-mixnode.new \ && 
 chmod u+x nym-mixnode.new \ && 
 service nym-mixnode stop \ && 
 mv nym-mixnode.new nym-mixnode \ && 

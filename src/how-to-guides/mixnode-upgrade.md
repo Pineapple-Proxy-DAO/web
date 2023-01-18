@@ -16,7 +16,7 @@ The latest releases can be found on their [Github](https://github.com/nymtech/ny
 1. Connect to your mixnode
 2. Go to the location when your binaries are (e.g. /home/user)
 3. Stop the running "nym-mixnode" process
-  - `sudo service nym-mixnode stop`
+  - `service nym-mixnode stop`
 4. Download and replace the existing binaries with the newest ones using `wget`command
   - `wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode`
   - using `wget`command will fetch the binaries and replace the existing components, `-N` option will force the overwrite

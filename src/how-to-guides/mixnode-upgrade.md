@@ -24,7 +24,7 @@ The latest releases can be found on their [Github](https://github.com/nymtech/ny
   - the `init` command will **NOT** overwrite your keys
   - `./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address>`
 6. Restart your "nym-mixnode" process
-  - `sudo service nym-mixnode start`
+  - `service nym-mixnode start`
 7. Check that your nym-mixnode process is running as intended
   - `systemctl status nym-mixnode.service`
   - `journalctl -u nym-mixnode -f`

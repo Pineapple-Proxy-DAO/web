@@ -50,8 +50,7 @@ service nym-mixnode start
 
 ### Without init
 ```
-wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' \
-| sed -n 's/.*"tag_name": "\(nym-binaries.*\)",/\1/p' | head -n1 )/nym-mixnode -O nym-mixnode.new \ && 
+wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n '0,/.*"tag_name": "\(nym-binaries.*\)",/s//\1/p' )/nym-mixnode -O nym-mixnode.new \ && 
 chmod u+x nym-mixnode.new \ && 
 service nym-mixnode stop \ && 
 mv nym-mixnode.new nym-mixnode \ &&

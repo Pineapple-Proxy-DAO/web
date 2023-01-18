@@ -40,19 +40,19 @@ The fact that the `wget` download happens before stopping the "nym-mixnode" proc
 
 ### With init
 ```
-wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n '0,/.*"tag_name": "\(nym-binaries.*\)",/s//\1/p' )/nym-mixnode -O nym-mixnode.new \ && 
-chmod u+x nym-mixnode.new \ && 
-service nym-mixnode stop \ && 
-mv nym-mixnode.new nym-mixnode \ && 
-./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address> \ && 
+wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n '0,/.*"tag_name": "\(nym-binaries.*\)",/s//\1/p' )/nym-mixnode -O nym-mixnode.new && 
+chmod u+x nym-mixnode.new && 
+service nym-mixnode stop && 
+mv nym-mixnode.new nym-mixnode && 
+./nym-mixnode init --id <Mixnode ID> --host  <Your host IPV4 address> --wallet-address  <Your Mixnode Wallet address>  && 
 service nym-mixnode start
 ```
 
 ### Without init
 ```
-wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n '0,/.*"tag_name": "\(nym-binaries.*\)",/s//\1/p' )/nym-mixnode -O nym-mixnode.new \ && 
-chmod u+x nym-mixnode.new \ && 
-service nym-mixnode stop \ && 
-mv nym-mixnode.new nym-mixnode \ &&
+wget -N https://github.com/nymtech/nym/releases/download/$( curl -s 'https://api.github.com/repos/nymtech/nym/releases' | sed -n '0,/.*"tag_name": "\(nym-binaries.*\)",/s//\1/p' )/nym-mixnode -O nym-mixnode.new  && 
+chmod u+x nym-mixnode.new  && 
+service nym-mixnode stop  && 
+mv nym-mixnode.new nym-mixnode  &&
 service nym-mixnode start
 ```

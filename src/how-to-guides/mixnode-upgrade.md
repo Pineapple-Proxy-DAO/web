@@ -1,6 +1,6 @@
 # Nym Mixnode Upgrade Instructions
 
-*(to get the final command and skip the detailed step-by-step, jump to the end of this page)*
+*(to get the final command and skip the detailed step-by-step, jump to the [end of this page](#optimized-command-for-an-efficient-update))*
 
 [Official Nym Documentation on Mixnode Upgrade](https://nymtech.net/docs/stable/run-nym-nodes/nodes/mixnodes#upgrading-your-mix-node)
 

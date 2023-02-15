@@ -1,93 +1,16 @@
-# Welcome 🍍
-
-Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing 👀 
-
+**You are warmly welcomed to Pineapple Proxy's home on the web.**
 [Tor version](http://weuz7bfcmmsz6bjhlp36fulmmtjmww4uag4jfaigb6hthxqzrqqdatqd.onion)
 
----
+Let us introduce ourselves: we're a zesty collective of whacky, warm individuals who are passionate about making privacy convenient for everyone, an inalienable human right. We believe in collective intelligence, empathy, and collaboration as the means by which we'll make privacy a meaningful reality. 
 
-## 🛡️**Official NYM links & documents**
+Born out of a study group from Nym's Shipyard Academy, we emerged as a cluster of motivated and skilled individuals who see the new internet taking shape. Inspired by a shared vision of future and diverse backgrounds, it feels like we finally have the minds and tools to make this happen. 
 
-**🌐[Nymtech website](https://nymtech.net)**
+We've achieved quite a bit since we started during the final moments of 2022. Wordsmiths have written content for beginners, coders have made useful tools for using the mixnet, avid readers have curated a cypherpunk reading list, and we've had ongoing heartwarming pineapple chats. And we haven't even properly begun yet!
 
-**📄[NYM lite paper](https://nymtech.net/nym-litepaper.pdf)**
+Vibecare is at the heart of our approach. Our projects this year will be about creating unforgettable events, new tools, and content that weave a safer and more inclusive internet together. We are proponents of the "mysterious third thing," a playful take on where we stand around lunarpunk and solarpunk friends. 
 
-**🔭[NYM whitepaper](https://nymtech.net/nym-whitepaper.pdf)**
+See, now is not the time to be divisive. We're on a misison to share what we learn with fellow communities; those who orbit the various technologies and ideologies around our digital lives. That's why we're all about pineapples, because nothing is more annoying and harmful than the questions that divide us (ie when we're expected to form an opinion on liking pineapples on our pizza or not). People and our greater world are far more interesting and nuanced than a binary question. 
 
-**🪙[NYM token economics paper](https://nymtech.net/nym-cryptoecon-paper.pdf)**
+Also, just because we're on a mission doesn't mean we have to be serious. We want to play, we want to make things fun, we want to be our authentic selves. So, will you help us return the flavours back to fellow fruity friends across the world? 
 
----
-
-## ⭐**NYM Socials**
-
-📺[Youtube](https://www.youtube.com/@Nymtech)
-
-🦜[Twitter](https://twitter.com/nymproject)
-
-📱[Telegram](https://t.me/nymchan)
-
-👾[Discord](https://discord.gg/nym)
-
-📖[Medium](https://medium.com/nymtech)
-
-🔮[Github](https://github.com/nymtech)
-
-💰[Coinmarketcap](https://coinmarketcap.com/currencies/nym/)
-
----
-
-## ⚡**NYM-DEV-TOOLS**
-
-[🔎💯Nym githbub repo](https://github.com/nymtech/nym/tree/nym-connect-v1.1.2)
-
-☑️ [NYM Mixnet Explorer](https://explorer.nymtech.net)  (OG explorer of the mixnet)
-
-🕉️[Mixnet explorer](https://mixnet.explorers.guru) by [Nodes Guru](https://nodes.guru)   - ⚠️ Keep in mind the view this explorer has two sides- one for the mixnet and one for the NYX blockchain ⚠️
-
-[⛓️ NYM SDK](https://www.npmjs.com/package/@nymproject/sdk)
-
----
-
-## 💻Services and apps powered by NYM mixnet
-
-☑️[Is-NYM-up?](https://isnymup.com) - Quick mixnet status checker by NTV.
-
-💬[NYM mixnet chat app](https://chat-demo.nymtech.net) - demonstrative private p2p chat app built with webassembly.
-
-🕶️[Pastenym](https://pastenym.ch/#/) - anyonymus file sharing - supporting images by [No Trust Verify](https://nym.notrustverify.ch).
-
-👩🏼💻[Live mixnet](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet?orgId=1) - detailed mixnet dashboard by NTV.
-
-🕉️[Node tracker](https://t.me/NodesGuru_bot) - node checker telegram bot by NG.
-
----
-
-## 🍍Mixnodes ❤️ 🔥
-
-* [NoTrustVerify](https://nym.notrustverify.ch) - Professional Infrastructure🇨🇭 | Fair Fees | Nym Contributor | [https://t.me/notrustverify](https://t.me/notrustverify)
-    * [NTV1 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
-    * [NTV2 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
-
-* [Amphibios 9🍍🇬🇪- th](https://mixnet.explorers.guru/mixnode/RYDYNZNwZfeZs87TLhn4dWAK9xax3eLdMJ1fzJnqFvU)is mixnode was launched in Georgia - one of the world's most cryptocurrency-friendly countries!
-
-* [MyNixNode.](https://mynixnode.com) - Privacy is not negotiable | 🇨🇭 | Nym community
-    * [MyNixNode node - NYM Mixnet Explorer](https://mixnet.explorers.guru/mixnode/7w5dJR14ZqfBnnqVyyPY3XPwfpVZrFvLkXYHNHR7GXDg)
-
----
-
-## 🕵🏼 ㊙️Privacy repos & further links
-
-[🕶️**web3privacy.now**](https://github.com/Msiusko/web3privacy)
-
-🗨️[Secret network ecosystem](https://scrt.network/ecosystem/dapps)
-
-💠[Universal Privacy Alliance](https://privacyalliance.com)
-
-- **🗺️privacy tech landscape to browse**
-    
- ![Web3privacy landscape now.png](Web3privacy_landscape_now.png)
-    
-
----
-
-
+Pick your fruit, jump into this collaborative fruit salad, and let's make the internet more tender! 🍍🍓🥝🍇🥥🍋 

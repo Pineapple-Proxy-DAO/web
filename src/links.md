@@ -1,4 +1,4 @@
--Links for Nymjas-
+# Links for Nymjas
 
 ## 🛡️**Official NYM links & documents**
 

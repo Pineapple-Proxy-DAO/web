@@ -2,7 +2,7 @@
 
 - [Welcome](welcome.md)
 - [What we might do](what-we-do.md)
-- [🍍 Story](Pineapple Story.md)
+- [🍍 Story](Pineapple-Story.md)
 - [🍍People and Governance](Governance.md)
 - [🍍 Onboarding the PAO](onboarding.md)
 - [📜Manifestos we like to sing](Undystopian-manifesto.md)

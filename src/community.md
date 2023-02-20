@@ -5,7 +5,7 @@ These individuals make it a dream to collaborate with, especially since everyone
 
 Our team is distributed, self-organising and culturally diverse.
 
-We come from all around the world:🇮🇷🇦🇺🇭🇺🇨🇭🇺🇦🇦🇹🇵🇹🇪🇸🇺🇸
+We come from all around the world:🇮🇷🇦🇺🇭🇺🇨🇭🇺🇦🇦🇹🇵🇹🇰🇪
 
 
 * Community members = 32

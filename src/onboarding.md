@@ -1,4 +1,4 @@
-# ALL FRUITS ARE WELCOME IN PINEAPPLE PROXY**
+# ALL FRUITS ARE WELCOME IN PINEAPPLE PROXY
 
 There are no gates, security or ID check at our decentralised tropical garden party.
 

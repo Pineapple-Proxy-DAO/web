@@ -7,7 +7,7 @@ Everything is built on trust, mutual respect and YOUR engagement.
 Our approach is to keep everything as simple as possible, so it stays inclusive and easy to digest for everyone - regardless of your background and prior experience.
 
 ## The current PAO🍍 Onboarding ritual 
-(Feedback & live discussion here: https://forum.pnproxy.org/t/onboarding-ritual-to-pao/17) 
+(Feedback & live discussion here: [https://forum.pnproxy.org/t/onboarding-ritual-to-pao/17](https://forum.pnproxy.org/t/onboarding-ritual-to-pao/17)) 
 
 ### Stage 1 🍍🌱: Learn, stalk & lurk 
 

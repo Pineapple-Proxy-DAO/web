@@ -86,3 +86,13 @@ Date: 2022
   
 * [EN - Read it](https://pastenym.ch/#/bafkreidrf56tp3zjgbogz5p6rar2rfbnov2uv5ychmyfekutbf7frh2pti&key=159e40d81deb5b45e1ac0910751fa215)
   
+
+  ## Cyphernox Manifesto
+
+Date: 2023
+
+> The Cyphernox Manifesto declares that individual privacy is the ultimate right and seeks to go beyond what cypherpunks imagined. They aim to develop a future civilization based on privacy-backed individualism using technology as a means to upgrade network communications, identity, contracts, and trade to privacyhood.
+>
+> [https://github.com/freeai-manifesto/manifesto](https://dr.orlovsky.ch/blog/cyphernox-manifesto](https://dr.orlovsky.ch/blog/cyphernox-manifesto)
+
+* [EN - Read it](https://pastenym.ch/#/TDiKc7F3&key=e9cde0fe09476d9857957812f99e1852)

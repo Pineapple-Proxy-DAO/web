@@ -59,8 +59,9 @@
 ## 🍍Mixnodes ❤️ 🔥
 
 * [NoTrustVerify](https://nym.notrustverify.ch) - Professional Infrastructure🇨🇭 | Fair Fees | Nym Contributor | [https://t.me/notrustverify](https://t.me/notrustverify)
-    * [NTV1 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
+    * [NTV1 node](https://mixnet.explorers.guru/mixnode/APxUbCmGp4K9qDzvwVADJFNu8S3JV1AJBw7q6bS5KN9E)
     * [NTV2 node](https://mixnet.explorers.guru/mixnode/4yRfauFzZnejJhG2FACTVQ7UnYEcFUYw3HzXrmuwLMaR)
+    * [NTV3 node](https://mixnet.explorers.guru/mixnode/ESPa5xnwZ7BebSX9SGmUbeYgNtkUeJo8PtbBx7JhzEHA)
 
 * [Amphibios 9🍍🇬🇪- th](https://mixnet.explorers.guru/mixnode/RYDYNZNwZfeZs87TLhn4dWAK9xax3eLdMJ1fzJnqFvU)is mixnode was launched in Georgia - one of the world's most cryptocurrency-friendly countries!
 

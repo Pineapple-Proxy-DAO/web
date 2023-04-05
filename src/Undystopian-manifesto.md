@@ -87,6 +87,7 @@ Date: 2022
 * [EN - Read it](https://pastenym.ch/#/bafkreidrf56tp3zjgbogz5p6rar2rfbnov2uv5ychmyfekutbf7frh2pti&key=159e40d81deb5b45e1ac0910751fa215)
   
 
+
 ## Cyphernox Manifesto
 
 Date: 2023

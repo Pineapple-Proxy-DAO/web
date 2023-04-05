@@ -3,8 +3,8 @@ authors = ["pineapple"]
 language = "en"
 multilingual = false
 src = "src"
-title = "The way of the NYMJA"
-description="Curated wiki of relevant NYMformation by Pinapple Proxy crew. Probably nothing 👀"
+title = "🍍"
+description="Pineapple Proxy - spiderweb of the new internet"
 
 [output.html]
 git-repository-url = "https://github.com/Pineapple-Proxy-DAO/web"

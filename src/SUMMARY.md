@@ -4,6 +4,7 @@
 - [What we might do](what-we-do.md)
 - [🍍 Story](Pineapple-Story.md)
 - [🍍People and Governance](governance.md)
+   - [Funds Governance](funds-gov.md)
 - [🍍 Onboarding the PAO](onboarding.md)
 - [📜Manifestos we like to sing](Undystopian-manifesto.md)
 - [🍍Blog articles & essays](blog-articles-essays.md)
